@@ -1,9 +1,6 @@
 # markdown-study-example
 
-MarkDown 文档练习
-
-[TOC]
-
+📕 MarkDown 文档练习
 
 
 ## 语法
@@ -84,6 +81,14 @@ public class Test {
   - [x] :running: 跑步 
   - [ ] :swimming_man: 游泳
   - [ ] :rowboat: 划船 
+
+- 表格
+
+  | 姓名     | 邮箱                        |
+  | -------- | --------------------------- |
+  | Ajunboys | weijunqiang2010@foxmail.com |
+
+  
 
 - 超链接
 
